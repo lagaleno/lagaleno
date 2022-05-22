@@ -22,13 +22,13 @@
     <h2> Check out 💻 </h2>
     <ul> 
         <li><a href='https://drive.google.com/file/d/15yDm7dEJbU4JEUI0ryQqO80Z_ZWcVFn3/view'> Resume </a></li>
-        <li><a href='https://www.linkedin.com/in/lagaleno/'> Lnkedin </a></li>
+        <li><a href='https://www.linkedin.com/in/lagaleno/'> Linkedin </a></li>
         <li><a href='https://lagaleno.github.io/'> Portfolio </a></li>
     <ul>
 </div>
 
 <div id='status'>
     <h2> My stats 📈 </h2>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lagaleno&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lagaleno&layout=compact&theme=vision-friendly-dark"/>
 
 </div>
