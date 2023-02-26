@@ -8,9 +8,9 @@
 <div id="about">
     <h2> About me 👩🏻‍💻 </h2>
     <ul>
-        <li> I am a frontend developer learning more about UX, Data Science and QA testing </li>
-        <li> Currently finishing my bachelor degree in Computer Science </li>
-        <li> IBM Research Intern </li>
+        <li> I am a fullstack developer learning more about UX, data base infrastructure and testing </li>
+        <li> Master degree student in Cumputer Engineering focusing in Software Engineering </li>
+        <li> Grupo Soma Full Stack Developer </li>
     </ul>
     <h2> Languages and Tools 🛠</h2>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <h2> Check out 💻 </h2>
     <ul> 
-        <li><a href='https://drive.google.com/file/d/15yDm7dEJbU4JEUI0ryQqO80Z_ZWcVFn3/view'> Resume </a></li>
+        <li><a href='https://drive.google.com/file/d/1S7eKSS383JL5zMUMpNbXqbEzygDFYuT-/view?usp=sharing'> Resume </a></li>
         <li><a href='https://www.linkedin.com/in/lagaleno/'> Linkedin </a></li>
         <li><a href='https://lagaleno.github.io/'> Portfolio </a></li>
     <ul>
