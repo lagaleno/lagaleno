@@ -8,9 +8,9 @@
 <div id="about">
     <h2> About me 👩🏻‍💻 </h2>
     <ul>
-        <li> I am a fullstack developer learning more about UX, data base infrastructure and testing </li>
         <li> Master degree student in Cumputer Engineering focusing in Software Engineering </li>
-        <li> Grupo Soma Full Stack Developer </li>
+        <li> Studying Software Engineering, Human-Computer Interaction, User Experience, and Gender Inequality in STEM </li>
+        <li> Progamming tutor in Toti and IDEAS </li>
     </ul>
     <h2> Languages and Tools 🛠</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
